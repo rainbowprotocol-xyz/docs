@@ -1,5 +1,7 @@
 # 💡 System Architecture
 
+## Layers
+
 The design of Rainbow Protocol's system architecture aims to ensure efficiency, security, and scalability. Here are its main components:
 
 1. **Indexing Layer**: Decentralized indexers identify and parse Bitcoin transactions, extracting transactions that comply with protocol rules and sending them to the contract verification layer for validation.
@@ -11,7 +13,7 @@ By integrating these components, Rainbow Protocol provides a robust and flexible
 
 
 
-### Architecture Graph
+## Architecture Graph
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 

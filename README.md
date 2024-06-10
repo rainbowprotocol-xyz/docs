@@ -4,7 +4,11 @@ description: An introduction for Rainbow Protocol
 
 # 👏 Introduction
 
-### Overview
+## Status
+
+We are **NOT** in production yet
+
+## Overview
 
 Rainbow Protocol is an innovative overlay protocol designed to bring programmability to the Bitcoin ecosystem. By adding an interoperability layer on top of Bitcoin, Rainbow Protocol extends Bitcoin's core functionalities, allowing developers to create and execute complex smart contracts and decentralized applications (dApps) on the Bitcoin network. This protocol retains Bitcoin's advantages as the world's most secure and widely adopted blockchain network while introducing flexibility and scalability to support a wider range of use cases.
 
@@ -14,7 +18,7 @@ Currently, Rainbow Protocol is in the experimental stage, focusing on the progra
 
 
 
-### Target Audience
+## Target Audience
 
 The target audience of this protocol includes but is not limited to:
 
@@ -23,7 +27,7 @@ The target audience of this protocol includes but is not limited to:
 * Researchers: Academics and scholars focused on the development and application of blockchain technology.
 * Enterprises and institutions: Business entities seeking to build and deploy decentralized solutions on the Bitcoin network.
 
-### Protocol Comparison
+## Protocol Comparison
 
 | Feature                 | Rainbow Protocol     | BRC20          | Atomicals                    | Runes                | RGB++      |
 | ----------------------- | -------------------- | -------------- | ---------------------------- | -------------------- | ---------- |
