@@ -8,6 +8,10 @@ description: An introduction for Rainbow Protocol
 
 We are **NOT** in production yet
 
+
+
+<figure><img src=".gitbook/assets/20240611-165450.jpeg" alt=""><figcaption></figcaption></figure>
+
 ## Overview
 
 Rainbow Protocol is an innovative overlay protocol designed to bring programmability to the Bitcoin ecosystem. By adding an interoperability layer on top of Bitcoin, Rainbow Protocol extends Bitcoin's core functionalities, allowing developers to create and execute complex smart contracts and decentralized applications (dApps) on the Bitcoin network. This protocol retains Bitcoin's advantages as the world's most secure and widely adopted blockchain network while introducing flexibility and scalability to support a wider range of use cases.
