@@ -1,5 +1,5 @@
 ---
-description: An introduction for Rainbow Protocol
+description: An overlay protocol on Bitcoin
 ---
 
 # 👏 Introduction
@@ -9,6 +9,13 @@ description: An introduction for Rainbow Protocol
 We are **NOT** in production yet
 
 <figure><img src=".gitbook/assets/20240611-174350.jpeg" alt=""><figcaption></figcaption></figure>
+
+## Summary
+
+* Bitcoin Native Assets, secured by BTC ( L1 )
+* Smart contracts enabled Virtual Machine ( L2 )
+* Assets Teleport:  No Bridge, No Multi-sig, No EVM
+* Smart Contracts enabling Defi and Web3 applications on BTC
 
 ## Overview
 
