@@ -8,7 +8,7 @@ description: An introduction for Rainbow Protocol
 
 We are **NOT** in production yet
 
-<figure><img src=".gitbook/assets/20240611-171905.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/20240611-174350.jpeg" alt=""><figcaption></figcaption></figure>
 
 ## Overview
 
