@@ -4,12 +4,14 @@
 
 ## Overview
 
-* [💡 System Architecture](overview/system-architecture.md)
+* [🏁 Vision and Reasons](overview/vision-and-reasons.md)
 * [✨ RBO Tokens](overview/rbo-tokens.md)
-* [🖥️ Indexing and Validation layers](overview/indexing-and-validation-layers.md)
-* [🤖 Rainbow VM and Smart Contracts](overview/rainbow-vm-and-smart-contracts.md)
-* [👽 Chain Abstraction and Assets Teleport](overview/chain-abstraction-and-assets-teleport.md)
+* [🤜 Use cases](overview/use-cases.md)
 
-## Use Cases
+## Technical Specs
 
-* [🖥️ For Developers](use-cases/for-developers.md)
+* [💡 System Architecture](technical-specs/system-architecture.md)
+* [🖥️ Indexing and Validation layers](technical-specs/indexing-and-validation-layers.md)
+* [🤖 Rainbow VM and Smart Contracts](technical-specs/rainbow-vm-and-smart-contracts.md)
+* [👽 Chain Abstraction and Assets Teleport](technical-specs/chain-abstraction-and-assets-teleport.md)
+* [🖥️ For Developers](technical-specs/for-developers.md)
