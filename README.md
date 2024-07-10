@@ -12,9 +12,9 @@ We are **NOT** in production yet
 
 ## Summary
 
-* Bitcoin Native Assets, secured by BTC ( L1 )
-* Smart contracts enabled Virtual Machine ( L2 )
-* Assets Teleport:  No Bridge, No Multi-sig, No EVM
+* Bitcoin Native Assets, secured by BTC&#x20;
+* Smart contracts enabled Virtual Machine
+* Assets Teleport:  No Bridge, No Multi-sig&#x20;
 * Smart Contracts enabling Defi and Web3 applications on BTC
 
 ## Overview
