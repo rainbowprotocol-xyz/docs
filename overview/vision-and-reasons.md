@@ -2,20 +2,18 @@
 
 ## Vision
 
-Investment in crypto today is getting harder. Bitcoin stays its way to become a value storage and digital gold thesis, changing Bitcoin's culture is hard, activate BIPs are even harder.&#x20;
+In today's landscape, investing in cryptocurrencies has become increasingly complex. Bitcoin steadfastly holds its position as a store of value and digital gold. Altering Bitcoin's culture is challenging, and activating Bitcoin Improvement Proposals (BIPs) is even more so. As a result, individuals often seek opportunities in altcoins, only to face disappointment. Venture capital-backed teams and chains frequently entice investors with ambiguous and meaningless technical jargon, leading to disillusionment. Users engage with purported Layer 2 bridges and chase airdrops, only to witness the inevitable dump following a short-term pump.
 
-People switch to Altcoins for opportunity, but they are often betrayed. VC-backed teams and chains often trick you buying in, with vague and meaning-less technical terms. People interact with so-called L2 bridges and look for airdrops, but then the coins are dumped after the short-term pump.
-
-We need a better and lower cost way to free us from those tricks. You have every rights to deploy and issue the coins on the most secured, widely adopted blockchain and a fee-to-use solution for sending and storing your assets.
+There exists a need for a superior and cost-effective approach to liberate us from these deceptions. You deserve the autonomy to deploy and issue coins on the most secure and widely adopted blockchain, coupled with a fee-based solution for sending and storing your assets.
 
 ## Why Rainbow
 
-There are a lot of protocols built on top of Bitcoin, in various way. Rainbow is one of them, however, there are things make Rainbow unique and a must.
+Numerous protocols are built atop Bitcoin, each in varying ways. Rainbow distinguishes itself as an essential and unique protocol due to the following characteristics:
 
-* Isomorphic states and No Bridge:  Rainbow is designed to be an overlay protocol, what it means we do not change the way that Bitcoin works. We share and compute the Bitcoin state inside Rainbow's execution environment, thus we do not use Multi-Sig bridge at all.&#x20;
-* Programmable: All Rainbow assets are Turing-Complete smart-contracts, automated deployed and decentralized running. For developers, you can write smart-contracts using high-level programming languages.
-* Permission-less and fairness: Anyone can deploy Rainbow Assets simply by sending a Bitcoin Transaction. You can setup parameters to make assets define your own tokenomic types, hard-cap, inflation rate or fair launching.&#x20;
-* Blazing fast execution:  Rainbow's VM is running on top of IC, with high performance and scaling solutions for smart-contracts, currently we have seen transaction speed is less than 2 secs.
+* **Isomorphic States and No Bridge:** Rainbow is conceived as an overlay protocol, ensuring it does not alter Bitcoin's fundamental operations. We integrate and compute the Bitcoin state within Rainbow's execution environment, thereby eliminating the reliance on Multi-Sig bridges.
+* **Programmable:** Rainbow assets are implemented as Turing-complete smart contracts, autonomously deployed and decentralized. Developers are empowered to write smart contracts using high-level programming languages, facilitating greater innovation and utility.
+* **Permissionless and Fair:** The deployment of Rainbow assets is accessible to anyone through the simple act of sending a Bitcoin transaction. Parameters can be configured to define unique tokenomics, including hard caps, inflation rates, and fair launch mechanisms.
+* **Blazing Fast Execution:** Rainbow's Virtual Machine (VM) operates atop the Internet Computer (IC), delivering high performance and scalable solutions for smart contracts. Current transaction speeds are observed to be less than 2 seconds, ensuring swift and efficient execution.
 
 
 
