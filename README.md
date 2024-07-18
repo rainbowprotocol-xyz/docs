@@ -6,7 +6,7 @@ description: An overlay protocol on Bitcoin
 
 ## Status
 
-We are **NOT** in production yet
+Testnet: [https://testnet.rainbowprotocol.xyz/](https://testnet.rainbowprotocol.xyz/)
 
 <figure><img src=".gitbook/assets/20240611-174350.jpeg" alt=""><figcaption></figcaption></figure>
 
