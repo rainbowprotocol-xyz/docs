@@ -8,6 +8,12 @@ description: An overlay protocol on Bitcoin
 
 Testnet: [https://testnet.rainbowprotocol.xyz/](https://testnet.rainbowprotocol.xyz/)
 
+Telegram:  [https://t.me/rbo\_protocol](https://t.me/rbo\_protocol)
+
+X (Twitter): [https://x.com/rbo\_protocol](https://x.com/rbo\_protocol)
+
+
+
 <figure><img src=".gitbook/assets/20240611-174350.jpeg" alt=""><figcaption></figcaption></figure>
 
 ## Summary
