@@ -14,4 +14,5 @@
 * [🖥️ Indexing and Validation layers](technical-specs/indexing-and-validation-layers.md)
 * [🤖 Rainbow VM and Smart Contracts](technical-specs/rainbow-vm-and-smart-contracts.md)
 * [👽 Chain Abstraction and Assets Teleport](technical-specs/chain-abstraction-and-assets-teleport.md)
+* [🎓 Data Models and Security](technical-specs/data-models-and-security.md)
 * [🖥️ For Developers](technical-specs/for-developers.md)
