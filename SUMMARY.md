@@ -6,6 +6,7 @@
 
 * [🏁 Vision and Reasons](overview/vision-and-reasons.md)
 * [✨ RBO Tokens](overview/rbo-tokens.md)
+* [🦄 Value Capture](overview/value-capture.md)
 * [🤜 Use cases](overview/use-cases.md)
 
 ## Technical Specs
