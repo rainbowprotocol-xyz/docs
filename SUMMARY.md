@@ -16,5 +16,5 @@
 * [🤖 Rainbow VM and Smart Contracts](technical-specs/rainbow-vm-and-smart-contracts.md)
 * [👽 Chain Abstraction and Assets Teleport](technical-specs/chain-abstraction-and-assets-teleport.md)
 * [🎓 Data Models and Security](technical-specs/data-models-and-security.md)
-* [Rainbow Bitwork Whitepaper](technical-specs/rainbow-bitwork-whitepaper.md)
+* [Rainbow Bitwork](technical-specs/rainbow-bitwork.md)
 * [🖥️ For Developers](technical-specs/for-developers.md)

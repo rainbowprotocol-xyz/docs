@@ -1,8 +1,9 @@
 ---
+description: A verifiable POW Protocol
 icon: pickaxe
 ---
 
-# Rainbow Bitwork Whitepaper
+# Rainbow Bitwork
 
 ## Overview
 
