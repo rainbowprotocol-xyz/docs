@@ -21,7 +21,7 @@ Bitcoin's Unspent Transaction Output (UTXO) model is the foundational data struc
 
 Rainbow Protocol abstracts the ownership of UTXOs into an account model, where each UTXO's ownership is represented as an account. This abstraction allows for more intuitive and flexible management of assets, enabling users to interact with their Bitcoin holdings in a manner similar to account-based blockchains like Ethereum.
 
-<figure><img src="../.gitbook/assets/Cloud Architecture - Page 1 (1).png" alt=""><figcaption><p> Abstraction of UTXO to an Account Model</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Cloud Architecture - Page 1 (1).png" alt=""><figcaption><p> Abstraction of UTXO to an Account Model</p></figcaption></figure>
 
 **Advantages:**
 
