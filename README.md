@@ -6,7 +6,9 @@ description: An overlay protocol on Bitcoin
 
 ## Status
 
-Testnet: [https://testnet.rainbowprotocol.xyz/](https://testnet.rainbowprotocol.xyz/)
+Preparing For MainNet Launch
+
+TestNet (Closed)
 
 Telegram:  [https://t.me/rbo\_protocol](https://t.me/rbo\_protocol)
 
