@@ -1,6 +1,6 @@
 ---
-description: A verifiable POW Protocol
 icon: pickaxe
+description: A verifiable POW Protocol
 ---
 
 # Rainbow Bitwork
@@ -212,7 +212,7 @@ Suppose we have a target hash with a Bitwork difficulty of `3.a`. How can we ens
        OP_CHECKSIG     // Verifies the signature against the pubkey-hash
        OP_FALSE
        OP_IF
-       0x0462746370    // Protocol Bytes, "rbo" for example
+       0x------        // Protocol Bytes
        <Mine>          // Followed by a single push to denote the operation type
        <Payload>       // Payload (CBOR encoded) for the operation
        OP_ENDIF
@@ -221,7 +221,7 @@ Suppose we have a target hash with a Bitwork difficulty of `3.a`. How can we ens
        The **Payload** can be in JSON format:
 
        ```json
-       {"t": "DMT", "nonce": 0, "time": 1}
+       {"t": "---", "nonce": 0, "time": 1}
        ```
    * **Reveal Transaction**:
      * **Input#0**: References Output#0 of the Commit Transaction.
