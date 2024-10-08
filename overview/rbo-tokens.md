@@ -11,7 +11,7 @@ Rainbow Protocol makes asset issuance on the Bitcoin network easier and more eff
 OP_CHECKSIG     // Perform a check signature against the pubkey-hash
 OP_FALSE
 OP_IF
- 0x0462746370 // Push "rbo" 3 bytes
+ 0x------- // Push protocol bytes
  <Operation>  // Followed by a single push to denote the operation type
  <Payload>    // Payload (CBOR encoded) for the operation
 OP_ENDIF
@@ -34,7 +34,7 @@ Rainbow Protocol defines fungible tokens as RBO Tokens. These assets are issued 
 OP_CHECKSIG     // Perform a check signature against the pubkey-hash
 OP_FALSE
 OP_IF
- 0x0462746370 // Push "btcp" 4 bytes
+ 0x------- // Push protocol bytes
  <init>  // Followed by a single push to denote the operation type
  <init-payload>    // Payload (CBOR encoded) for the operation
 OP_ENDIF
@@ -53,8 +53,8 @@ OP_ENDIF
         "term": "This is an experimental Fungible Token" // Token description
     },
     "t": "FT", // Default type is fungible token
-    "n": "RBO", // Token name
-    "sym": "ℝ", // Token symbol
+    "n": "---", // Token name
+    "sym": "---", // Token symbol
     "sup": "21000000", // Total supply
     "amt": "10000", // Single mint amount
     "dec": "0", // Decimal places
